@@ -1,0 +1,3 @@
+set solib-search-path lib/armeabi:obj/local/armeabi
+source "/Users/shaurya/android-rubymotion/ndk/prebuilt/common/gdb/common.setup"
+directory "/Users/shaurya/android-rubymotion/ndk/platforms/android-21/arch-arm/usr/include" jni "/Users/shaurya/android-rubymotion/ndk/sources/cxx-stl/system"
