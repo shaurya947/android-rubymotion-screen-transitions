@@ -1,6 +1,0 @@
-SecondActivity : android.app.Activity <android.view.View.OnClickListener>
-	public SecondActivity() { super(); }
-	public native void onClick(android.view.View arg0);
-	public native void onCreate(android.os.Bundle arg0);
-	public native void onCreate(android.database.sqlite.SQLiteDatabase arg0);
-	public native void onCreate(android.view.SurfaceHolder arg0);
